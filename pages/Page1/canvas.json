@@ -43,7 +43,7 @@
               "fontFamily": "System Default",
               "leftColumn": 0,
               "dynamicBindingPathList": [],
-              "text": "👫 Customers",
+              "text": "👫 Clientes",
               "labelTextSize": "0.875rem",
               "rightColumn": 12,
               "textAlign": "LEFT",
@@ -982,7 +982,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_getCustomers",
               "name": "getCustomers",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
